@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Michael.  People call me Moose.
 - 👀 I’m interested in game dev, cloud dev, scripting, anything code relating
 - 🌱 I’m currently learning AWS services, node and angular
-- 💞️ I’m looking to collaborate on whatever catches my fnacy
+- 💞️ I’m looking to collaborate on whatever catches my fancy
 - 📫 How to reach me
 
 <!---
