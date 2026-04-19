@@ -47,7 +47,7 @@
   Contact via [m2s2.io →](https://m2s2.io)
 
   ---
-  ###Based in the US · Available for remote engagements · Open to on-site for the right project
+  ### Based in the US · Available for remote engagements · Open to on-site for the right project
 
 <!---
 mgmaster24/mgmaster24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
