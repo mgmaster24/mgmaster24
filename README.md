@@ -1,6 +1,6 @@
 # Michael Masterson · mgmaster24
 
-  **Senior Software Engineer & Cloud Architect — Founder, M²S² Engineering Group**
+  **Principa Software Engineer & Cloud Architect — Founder, M²S² Engineering Group**
 
   I build production-grade software with an emphasis on cloud-native architecture, clean APIs, and systems that scale. Over a decade of professional
   engineering experience across distributed systems, front-end applications, serverless infrastructure, and DevOps pipelines.
@@ -44,11 +44,10 @@
   M²S² takes on a limited number of engagements at a time to ensure quality over volume. If you're looking for a senior engineer who can own problems
   end-to-end — from architecture through deployment — I'd like to hear about what you're building.
 
-  Contact via m2s2.io →
+  Contact via [m2s2.io →](https://m2s2.io)
 
   ---
-  Based in the US · Available for remote engagements · Open to on-site for the right project
-```
+  ###Based in the US · Available for remote engagements · Open to on-site for the right project
 
 <!---
 mgmaster24/mgmaster24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
