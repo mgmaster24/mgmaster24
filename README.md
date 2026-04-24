@@ -1,6 +1,6 @@
 # Michael Masterson · mgmaster24
 
-  **Principa Software Engineer & Cloud Architect — Founder, M²S² Engineering Group**
+  **Principal Software Engineer & Cloud Architect — Founder, M²S² Engineering Group**
 
   I build production-grade software with an emphasis on cloud-native architecture, clean APIs, and systems that scale. Over a decade of professional
   engineering experience across distributed systems, front-end applications, serverless infrastructure, and DevOps pipelines.
